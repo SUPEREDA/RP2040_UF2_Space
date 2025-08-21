@@ -4,4 +4,4 @@ ALL 1
 AIRK-4DI 0
 ACRK-4DO 0
 ADPK-5C 1
-Ff 0
+Good 0
