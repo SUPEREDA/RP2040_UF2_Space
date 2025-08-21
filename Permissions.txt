@@ -1,7 +1,0 @@
-//0(ALL Disable)//1(Can_select)//2(All Enable)
-ALL 2
-//Select
-AIRK-4DI 0
-ACRK-4DO 0
-ADPK-5C 0
-TEST 1
