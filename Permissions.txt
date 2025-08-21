@@ -5,6 +5,3 @@ AIRK-4DI 0
 ACRK-4DO 0
 ADPK-5C 0
 EDA-C 1
-
-
-
